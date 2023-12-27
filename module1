@@ -1,5 +1,5 @@
 #1
-print ("helo world")
+print ("hello world")
 
 #2
 text = "hello world"
