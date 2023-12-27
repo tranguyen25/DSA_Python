@@ -1,0 +1,17 @@
+#1
+print ("helo world")
+
+#2
+text = "hello world"
+print(text)
+
+#3
+a="hello"
+b="world"
+c=a+" "+b
+print(c)
+
+#4
+def bt():
+    print(c)
+bt()
